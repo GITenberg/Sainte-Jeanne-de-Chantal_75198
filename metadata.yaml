@@ -1,0 +1,33 @@
+_repo: Sainte-Jeanne-de-Chantal_75198
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Giraud, Victor
+    birthdate: 1868
+    deathdate: 1953
+    gutenberg_agent_id: '57878'
+    url: http://www.gutenberg.org/2009/agents/57878
+    wikipedia: https://fr.wikipedia.org/wiki/Victor_Giraud
+description: ''
+gutenberg_issued: '2025-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75198'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k48010609
+pgterms:marc905: 20240830120252giraud
+pgterms:marc906: '1929'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bFlammarion, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Les grands cœurs
+subjects:
+- !lcsh 'Chantal, Jeanne-Françoise de, Saint, 1572-1641'
+- !lcc 'BX'
+- GITenberg
+title: Sainte Jeanne de Chantal
+url: http://www.gutenberg.org/ebooks/75198
